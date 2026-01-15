@@ -30,24 +30,17 @@
 
 ## 🚀 安裝指南
 
-### 對於 Kindle 使用者
-1. 將 Kindle 連接至電腦。
-2. 將 `.ttf` 檔案複製到 Kindle 根目錄下的 `fonts` 資料夾中。
-3. 在書籍閱讀介面點擊 `Aa` 選單 -> `字體` -> 選擇 `LINE Seed TW TC`。
-
-### 對於 Kobo 使用者
-1. 將 Kobo 連接至電腦。
-2. 在 Kobo 根目錄建立一個名為 `fonts` 的資料夾（若已存在則忽略）。
+### 對於 Palma 2 使用者
+1. 將 Palma 2 連接至電腦。
+2. 在 Palma 2 根目錄建立一個名為 `fonts` 的資料夾（若已存在則忽略）。
 3. 將 `.ttf` 檔案放入該資料夾。
-4. 重新啟動閱讀器後即可在設定中選擇。
 
 ---
 
 ## 🛠️ 製作資訊與工具
 
-- **底層字體**：[LINE Seed JP/KR](https://seed.line.me/)
+- **底層字體**：[LINE Seed TW](https://seed.line.me/index_tw.html)
 - **轉換工具**：[TCFontCreator](https://github.com/GuiWonder/TCFontCreator)
-- **詞庫來源**：OpenCC 台灣慣用語轉換辭典 (`s2twp.json`)
 
 ---
 
